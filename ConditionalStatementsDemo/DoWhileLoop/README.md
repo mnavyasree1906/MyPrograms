@@ -29,6 +29,8 @@ System.out.println("**************************************");
 3. The `do-while` loop ensures that the program keeps accepting numbers until `0` is entered.
 4. Once `0` is entered, the program exits the loop and prints the sum of all entered numbers.
 
+---
+
 ### Task 2: Guessing a Random Number
 
 - **Purpose**: This task generates a random number between 1 and 100 and prompts the user to guess it. The program provides feedback whether the guess is too high or too low, and continues until the correct number is guessed.
