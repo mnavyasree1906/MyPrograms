@@ -1,6 +1,6 @@
 # MyPrograms
 
-This is a readme file for MyPrograms contains core java.
+This is a readme file for MyPrograms contains core java programs.
 
 ## Table of Contents
 
