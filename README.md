@@ -1,4 +1,4 @@
-# MyPrograms
+# Core Java Programs
 
 This repository contains Java programs demonstrating various core concepts. Each folder contains a set of programs with descriptions and examples to help you understand the concepts better.
 
