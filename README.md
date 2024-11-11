@@ -2,9 +2,17 @@
 
 This repository contains Java programs demonstrating various core concepts. Each folder contains a set of programs with descriptions and examples to help you understand the concepts better.
 
-## Contents
-1. [Conditional Statements]
-2. [Access Modifiers]
+
+## Table of Contents
+
+| **S.No**         | **Topic**                                                                                           | **Link**          |
+|-------------------|-----------------------------------------------------------------------------------------------------|-------------------|
+| **001** | First Basic Program | [HelloWorld](https://github.com/mnavyasree1906/MyPrograms/tree/feature/programs/001-firstbasicprogram)                         |
+| **002**              | Conditional statements demo                                                                                                 | [conditionalstatements accessmodifiers](https://github.com/mnavyasree1906/MyPrograms/tree/feature/programs/002-conditionalstatementsdemo)         |
+| **003**      |                                                                                                  |                         |
+| **004**      |          |                         |
+| **005**         | [                                             |                         |
+
 
 ---
 
@@ -46,18 +54,3 @@ This folder contains programs that illustrate the use of access modifiers in Jav
 
 ---
 
-
-MyPrograms contains core java programs.
-
-## Table of Contents
-
-| **S.No**         | **Topic**                                                                                           | **Link**          |
-|-------------------|-----------------------------------------------------------------------------------------------------|-------------------|
-| **001** | First Basic Program | [HelloWorld](https://github.com/mnavyasree1906/MyPrograms/tree/feature/programs/001-firstbasicprogram)                         |
-| **002**              | Conditional statements demo                                                                                                 | [conditionalstatements accessmodifiers](https://github.com/mnavyasree1906/MyPrograms/tree/feature/programs/002-conditionalstatementsdemo)         |
-| **003**      |                                                                                                  |                         |
-| **004**      |          |                         |
-| **005**         | [                                             |                         |
-
-
----
