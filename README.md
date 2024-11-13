@@ -9,7 +9,7 @@ This repository contains Java programs demonstrating various core concepts. Each
 |-------------------|-----------------------------------------------------------------------------------------------------|-------------------|
 | **001** | First Basic Program | [HelloWorld](https://github.com/mnavyasree1906/MyPrograms/tree/feature/programs/001-firstbasicprogram)                         |
 | **002**              | Conditional statements demo                                                                                                 | [conditionalstatements accessmodifiers](https://github.com/mnavyasree1906/MyPrograms/tree/feature/programs/002-conditionalstatementsdemo)         |
-| **003**      |                                                                                                  |                         |
+| **003**      |      Modifiers                                                                                            |      [accessmodifiersdemo, datatypesdemo, modifierdemo, staticdemo, stringconcatdemo, typecastingdemo](https://github.com/mnavyasree1906/core-java-programs/tree/feature/program/003-modifiers)                   |
 | **004**      |          |                         |
 | **005**         | [                                             |                         |
 
