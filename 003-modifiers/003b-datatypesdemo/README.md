@@ -1,7 +1,7 @@
-## DataTypesDemo - Primitive Data Types in Java
+# DataTypesDemo - Primitive Data Types in Java
 This example demonstrates the use of primitive data types in Java. Each data type is assigned a sample value and then printed to the console.
 
-### Code:
+#### Code:
 
 ```java
 
